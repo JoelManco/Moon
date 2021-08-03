@@ -1,1 +1,12 @@
 
+commit 298513647e978c6b8f6cb40eaec03dd88f718497
+Author: Joel Manco <joelmanco7@gmail.com>
+Date:   Tue Aug 3 16:44:42 2021 +0200
+
+    Added file2.txt.
+
+commit 9e5737756203394dc94efbd98dd8d2395c5205dd
+Author: Joel Manco <joelmanco7@gmail.com>
+Date:   Tue Aug 3 16:43:02 2021 +0200
+
+    Pusing newly created files.
